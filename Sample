@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>The Code of Arch</title>
+  </head>
+  <body>We love architecture and we hope you do too. Here is a website to share our love affair with architecture with you!
+    <header>
+      <section>
+        <aside>
+        <ul>Ghost Towns</ul>
+        <ul>Missions</ul>
+        <ul>Contemporary</ul>
+        <ul>Historical</ul>
+        <ul>Seaside</ul>
+          <ul>
+            <li>Home</li>
+            <li>About Us</li>
+          </ul>
+        </nav>
+      </section>
+    </header>
+  </body>
+</html>
